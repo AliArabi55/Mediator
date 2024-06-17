@@ -49,5 +49,5 @@ The application helps doctors make informed and safe medical decisions, enhancin
 
 ## Contact Me
 
-For more information, you can contact me through the following link:
+Contact me on all social media sites:
 [AliArabi55](https://linktr.ee/AliArabi55)
