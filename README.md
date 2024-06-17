@@ -46,3 +46,8 @@ The application helps doctors make informed and safe medical decisions, enhancin
 
 **Front-end Developer:**
 - _Mohamed Elmsery_: Developing the front-end of the application
+
+## Contact Me
+
+For more information, you can contact me through the following link:
+[AliArabi55](https://linktr.ee/AliArabi55)
